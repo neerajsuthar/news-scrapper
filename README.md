@@ -54,6 +54,7 @@ To get all the news articles for a particular author.
 http://localhost:2019/thehindu/articles/author?author=<AUTHOR NAME>
 
 For Example : http://localhost:2019/thehindu/articles/author?author=Neeraj
+
 or : http://localhost:2019/thehindu/articles/author?author="Neeraj Suthar"
 
 Step - 4.5:
@@ -61,5 +62,6 @@ To get all the news articles for a particular title.
 http://localhost:2019/thehindu/articles/title?title=<TITLE>
 
 For Example : http://localhost:2019/thehindu/articles/title?title="Young hearts make art at"
-Or : http://localhost:2019/thehindu/articles/title?title=Young%20hearts%20make%20art%20at
+
+or : http://localhost:2019/thehindu/articles/title?title=Young%20hearts%20make%20art%20at
 
